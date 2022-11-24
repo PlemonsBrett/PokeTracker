@@ -8,7 +8,7 @@
     "email": "Brett.Plemons@gmail.com"
   },
   "license": "MIT",
-  "description": "A app that helps trainers to track their full pokedex and where to find pokemon in the wild.",
+  "description": "An app that helps trainers to track their full pokedex and where to find pokemon in the wild.",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
